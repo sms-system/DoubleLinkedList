@@ -136,7 +136,6 @@ class DoubleLinkedList {
             }
         }
 
-
         if (prevIndex === undefined) {
             this._startIndex = index
         } else {
